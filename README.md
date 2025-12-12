@@ -9,8 +9,8 @@ The libraeries is made for Arduino debvelopment environment.
 ## Demo main program using Libraery files
 
 ## Device
-on the Box its got Glink GL-014
-Type-c to RJ45
-Smooth and fast Gigabit net
- <img src="usb-c-to-rj45_1.png" alt="usb-c to rj45"><br> 
+on the Box its got Glink GL-014<br>
+Type-c to RJ45<br>
+Smooth and fast Gigabit net<br>
+ <img src="usb-c-to-rj45_1.png" alt="usb-c to rj45">
  <img src="usb-c-to-rj45_2.png" alt="usb-c to rj45"> 
