@@ -12,3 +12,5 @@ The libraeries is made for Arduino debvelopment environment.
 on the Box its got Glink GL-014
 Type-c to RJ45
 Smooth and fast Gigabit net
+ <img src="usb-c-to-rj45_1.png" alt="usb-c to rj45"><br> 
+ <img src="usb-c-to-rj45_2.png" alt="usb-c to rj45"> 
