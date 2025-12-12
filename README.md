@@ -6,3 +6,8 @@ The libraeries is made for Arduino debvelopment environment.
 ## Librery files
 
 ## Demo main program using Libraery files
+
+## Device
+on the Box its got Glink GL-014
+Type-c to RJ45
+Smooth and fast Gigabit net
